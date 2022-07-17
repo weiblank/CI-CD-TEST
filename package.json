@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-router": "^11.0.1",
+    "koa-static": "^5.0.0"
+  },
+  "name": "koa-demo1",
+  "version": "1.0.0",
+  "description": "koa-上传服务器测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
