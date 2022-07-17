@@ -13,5 +13,5 @@ const app = new Koa();
 // app.use(router.routes())
 app.use(require('koa-static')('./public/dist'))
 app.listen(3000,()=>{
-    console.log('服务器启动在了3000端口')
+    console.log('服务器启动在了3000端口ya')
 })
